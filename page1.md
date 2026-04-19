@@ -1,7 +1,0 @@
-# Hi All !!
-
-### I just hosted my notes with GitHub Pages.
-
-##### Below are all personal notes I found useful.
-
-######## --------------------------------------------
