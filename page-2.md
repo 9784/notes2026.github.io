@@ -1,5 +1,6 @@
-layout: page
+Testing page-2
+#layout: page
 
-title: "PAGE-2"
+#title: "PAGE-2"
 
-permalink: /page-2.md
+#permalink: /page-2.md
